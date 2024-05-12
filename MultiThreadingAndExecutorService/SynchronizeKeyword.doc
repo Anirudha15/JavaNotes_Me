@@ -1,0 +1,14 @@
+
+
+1. Mutual Exclusion: The synchronize keyword in Java 
+ensures that only one thread can execute a block of 
+code at a time, providing mutual exclusion and 
+preventing race conditions.
+
+2. Object Lock: When a thread enters a synchronized 
+block or method, it acquires a lock on the object or 
+class, depending on whether the method is an 
+instance method or a static method.
+
+3. Visibility: It ensures that changes made by one thread 
+to shared data are visible to other threads

@@ -1,0 +1,18 @@
+
+
+1. Checked Exceptions: These are exceptions that must be either 
+caught or declared in the method.
+This exception is compulsory to handle when they accure in progarm ie
+a. CalssNotFoundException
+b. InterruptedException
+c. IOException
+d. InstantiationException
+e. SQLException
+f. FileNotFoundException
+
+
+
+2. Unchecked Exceptions: These are exceptions that do not need to 
+be explicitly handled.
+This is not compulsory to handle in program
+

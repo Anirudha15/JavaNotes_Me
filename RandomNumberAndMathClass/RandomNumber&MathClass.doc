@@ -1,0 +1,21 @@
+
+
+Static Class: Math Methods are static and accessed directly.
+Constant: Includes pi and E for constant and the base of natural logarithms.
+
+Key Methods:
+    1.abs() : Absolute value.
+    2.ceil(): Round up.
+    3.floor(): Round down.
+    4.round(): Round to nearest integer.
+    5.max(),min(): Maximum and Minimum of two numbers.
+    6 pow(): Power calculation
+    7.sqrt(): Square root.
+    8.random(): Random number generation.
+    9.exp(),log(): Exponential and logarthmic functions.
+    10. Trigonometric function : sin(), cos()...
+
+
+
+
+

@@ -1,0 +1,15 @@
+
+
+1.Upcasting:
+• Converts subclass to superclass reference.
+• Automatic and safe.
+• Access only to superclass methods.
+
+2.Downcasting:
+• Converts superclass to subclass reference.
+• Manual and risky, needs instanceof check.
+• Access to subclass-specific methods.
+
+3.Usage:
+• Upcasting for generalization in methods.
+• Downcasting for specific subclass behaviors.

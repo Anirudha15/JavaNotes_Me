@@ -1,0 +1,12 @@
+
+1.Inheritance allows a new class (subclass) to
+inherit features from an existing class
+(superclass).
+
+2.Code Reusability: It enables subclasses to use
+methods and variables of the superclass,
+reducing code duplication.
+
+3.Access Control: The protected access modifier is
+often used in inheritance to allow subclass access
+to superclass members.

@@ -1,0 +1,26 @@
+
+
+
+AccessModifier in java
+
+1. Types: The four access modifiers are public, protected,
+default (no modifier), and private.
+
+2.Public: The public modifier allows access from any other
+class. For classes, it means they can be accessed from any
+other package.
+
+3.Protected: The protected modifier allows access within the
+same package and subclasses.
+
+4.Default: If no access modifier is specified, it's the default,
+allowing access only within the same package.
+
+5.Private: The private modifier restricts access to the defining
+class only.
+
+6.Class-Level Access: Only public and default (no modifier)
+access modifiers are applicable for top-level classes.
+
+7.Member-Level Access: Methods, constructors, and variables
+can use all four access modifiers to control visibility.

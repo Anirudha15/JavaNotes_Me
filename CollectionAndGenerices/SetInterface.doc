@@ -1,0 +1,20 @@
+
+
+1. Unique Elements: Does not allow duplicate elements.
+
+2. Unordered Collection: it does not guarantee any specific ordering of 
+elements.
+
+3. No Positional Access: Unlike lists, it doesn't support indexing-based 
+access to elements.
+
+4. Implementation: Common implementations include HashSet, 
+LinkedHashSet, and TreeSet.
+
+Operaations on setsInterrface
+
+1. add(E e): Adds the specified element to the set
+2. remove(Object o): Removes the specified element from the set
+3. contains(Object o): Checks if the set contains the specified element.
+4. size(): Returns the number of elements in the set.
+5. isEmpty(): Checks if the set is empty.

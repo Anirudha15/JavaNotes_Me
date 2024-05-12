@@ -1,0 +1,18 @@
+
+
+
+1. Variable Pass by Value:
+• Java's default method.
+• Copies argument's value to function's 
+parameter.
+• Changes in function don't affect original 
+variable.
+
+2. Objects and References:
+• Java passes the reference's value for objects.
+• Modifications to objects in methods affect 
+originals.
+
+3. Primitive Types:
+• Always passed by value.
+• In-function changes don't impact originals.

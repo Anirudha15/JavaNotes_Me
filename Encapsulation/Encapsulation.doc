@@ -1,0 +1,13 @@
+
+
+1 Data Hiding: Encapsulation hides internal data allowing acess only through methods
+
+2 Acess Modifiers: Uses private public protected yo control acess to class members
+
+3 Getter/Setter: Provides public methods for controlled property acess
+
+4 Maintains integrity: Protects object states from external interface
+
+5 Enhance Modularity: Keeps classes seprate and reduces coupling
+
+

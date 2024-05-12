@@ -1,0 +1,9 @@
+
+
+Self-Calling function :  Recursion is when a function call itself
+Base case : Essential to stop recursion and prevent infinit loop
+Recursive case : The part where the function makes recursive call
+Stack overflow Risk : Excessive recursion can cause stack overflow error
+Problem Solving : ideal for problem divible into similar smaller problems  
+
+

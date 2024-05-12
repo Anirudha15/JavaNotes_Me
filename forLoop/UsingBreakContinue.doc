@@ -1,0 +1,8 @@
+
+
+
+1 Break lets you store a loop early or break out of loop
+2 Continue is used to skiop one iteration or the current iteration
+3 In while loop remember to do the increment manually before using continue
+
+

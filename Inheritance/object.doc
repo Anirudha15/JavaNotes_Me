@@ -1,0 +1,17 @@
+
+
+1.Root Class: The Object class is the parent class of all classes in Java, forming
+the top of the class hierarchy.
+
+2.Default Methods: It provides fundamental methods like equals(),
+hashCode(), toString(), and getClass() that can be overridden by subclasses.
+
+3. String Representation: The toString() method returns a string
+representation of the object, often overridden for more informative
+output.
+
+
+
+
+
+

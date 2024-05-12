@@ -1,0 +1,16 @@
+
+1. function : tosting() provides a sring representation of an object.
+2. Inheritances : its inherited from the object class.
+3. Default Format: By default, return class name,"@", and hashcode.
+4. Overriding : Commonly overridden in custom class for meaningful output.
+5. implicit Call : Automaticcally called in String concatenation.
+
+
+
+
+
+
+
+
+
+

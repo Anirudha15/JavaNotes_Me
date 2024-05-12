@@ -1,0 +1,45 @@
+1. They allow you to write flexible and reusable code by enabling types (classes and 
+interfaces) to be parameters when defining classes, interfaces, and methods.
+
+2. Generics provide compile-time type safety by allowing you to enforce that certain 
+objects are of a specific type.
+
+3. With generics, you don’t need to cast objects because the type is known.
+
+4. Generics are denoted by angle brackets <>, e.g., List<String> means a list of strings.
+
+5. Diamond Operator: Introduced in Java 7, the diamond operator <> allows you to infer 
+the type parameter from the context, simplifying instantiation of generic classes.
+
+
+
+Answer in True/False
+
+1. Variable arguments can be used to pass an arbitrary number of values to a 
+method.
+2. Autoboxing is the process where primitive types are automatically converted 
+into their corresponding wrapper class objects by the Java compiler.
+3. Every class in the Collections Library implements the Collection interface.
+4. Lists guarantee the order of insertion for the elements they contain.
+5. Sets in Java inherently maintain the elements in sorted order.
+6. In a Map, you can have multiple entries with the same value but not with 
+the same key.
+7. Enums in Java can have constructors, methods, variables, and can 
+implement interfaces.
+8. With the diamond operator, you do not need to specify the type on the 
+right-hand side of a statement when initializing an object.
+9. The List interface provides methods for inserting elements at a specific 
+position in the list.
+10.Wrapper classes in Java, such as Integer and Double, can be extended 
+like any other class.
+
+True
+True
+False
+True
+False
+True
+True
+True
+True
+False

@@ -1,0 +1,6 @@
+
+1. Tasks might be very important
+2. Tasks are independent of each other
+3. A Multi-core CPU is sitting idle most of the time
+4. A big task can be divided into smaller parts
+5. Making your code responsiv

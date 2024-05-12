@@ -1,0 +1,8 @@
+
+1 Purpose: Constructor initialize new object and set initial states for the objects attributes.
+
+2 Naming: A Constructor must have the same name as the class in which it is declared
+
+3 No  return type specified: The constructor does not need to explicitly state a return type, not even  void. If no return value is specified then Java
+
+4 Automatic Calls: A constructor is Automatically called when object of is created.

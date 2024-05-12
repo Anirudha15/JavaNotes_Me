@@ -1,0 +1,11 @@
+
+1. Enums in Java: Special types for fixed sets of 
+constants like days, colors.
+2. Declaration: Use enum keyword, e.g., enum
+Color { RED, GREEN, BLUE; }.
+3. Access: Access constants with dot syntax, e.g., 
+Color.RED.
+4. Features: Type-safe, readable, can have 
+methods and fields.
+5. Usage: Useful in switch statements and iterating 
+with values() method.

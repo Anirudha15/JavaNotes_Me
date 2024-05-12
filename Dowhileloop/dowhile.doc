@@ -1,0 +1,11 @@
+
+
+1 Execute block first then check condition
+2 Guarantee to run at least one iteration 
+3 Unlike while first iteration is unconditional
+4 Dont forget to update to upadate condition to avoide infinity loop  
+
+
+
+
+

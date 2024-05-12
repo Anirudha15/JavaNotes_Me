@@ -1,0 +1,20 @@
+
+1. What is a Thread: A thread in Java is a small part of a 
+program that can run at the same time as other 
+parts.
+
+2. Purpose: Threads help a program do many things at 
+once, like handling many users or doing different 
+tasks simultaneously.
+
+3. Creating Threads: You can make a thread by using the 
+Thread class or the Runnable interface.
+
+4. Using Threads: Use threads for tasks that can happen 
+at the same time, like managing many requests or 
+splitting up a big job.
+
+5. Thread Talk: Threads can talk to each other using 
+wait(), notify(), and notifyAll() to coordinate their 
+work.
+

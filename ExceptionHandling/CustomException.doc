@@ -1,0 +1,6 @@
+1. Custom exceptions are user-defined exception classes that extend 
+either Exception (for checked exceptions) or RuntimeException (for 
+unchecked exceptions). 
+
+2. They are created to represent specific error conditions relevant to 
+an application.

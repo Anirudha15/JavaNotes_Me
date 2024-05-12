@@ -1,0 +1,50 @@
+1. FileWriter is used for writing streams of characters to files. 
+
+2. It's a character-based stream, which means it's best used for 
+writing text rather than binary data.
+
+3. Constructors:
+• FileWriter(String fileName): Creates a FileWriter object given 
+the name of the file to write to.
+• FileWriter(File file): Creates a FileWriter object given a File 
+object.
+
+
+4. Common Methods:
+• write(int c): Writes a single character.
+• write(char[] cbuf): Writes an array of characters.
+• write(String str): Writes a string.
+• flush(): Flushes the stream, ensuring all data is written out.
+• close(): Closes the stream, releasing any associated system 
+resources
+
+
+Answer in True/False
+1. A method that throws a checked exception must declare the exception 
+using the throws keyword in its signature. 
+2. It is possible to handle more than one type of exception in a single catch 
+block. 
+3. The finally block is always executed, even if a return statement is 
+encountered in the try or catch block.
+4. If both try and catch blocks have return statements, the finally block will not 
+execute. 
+5. You can throw an exception of any type, including custom exceptions, using 
+the throw keyword.
+6. If a try block does not throw any exception, the catch block is executed for 
+cleanup purposes. 
+7. Unchecked exceptions are a direct subclass of Throwable.
+8. A catch block can exist independently of a try block. 
+9. You can nest try blocks within another try block. 
+10.The throw keyword is used to propagate an exception up the call stack.
+
+True
+True
+True 
+False
+True
+False
+False 
+False 
+True 
+True
+

@@ -1,0 +1,17 @@
+
+1. Java's varargs allow methods to accept any 
+number of arguments.
+
+2. Declared using an ellipsis (...), e.g., void 
+method(int... nums).
+
+3. Internal Handling: Treated as arrays, e.g., 
+int... nums is int[] nums.
+
+4. Placement: Must be the last in the method's 
+parameters.
+
+5. Usage: Call with varying argument counts, 
+e.g., method(1, 2) or method().
+
+6. Introduced in: Java 5.

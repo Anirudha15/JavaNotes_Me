@@ -1,0 +1,12 @@
+
+
+1 Standard loop for runing code multiple time
+2 Generally preferred for counting iteration
+
+
+for(initialisation; condition; update){
+    //Body of the loop
+}
+
+
+

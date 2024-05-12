@@ -1,0 +1,29 @@
+In Java, the final keyword can be applied to variables, methods, and classes, indicating that they cannot be changed or overridden./
+
+
+1 Variables: A final variable's value cannot be modified after initialization. It must be assigned a value exactly once.
+
+
+eg
+   final int constantValue = 10;
+
+
+2 Methods: A final method cannot be overridden in subclasses, providing stability to method implementations.
+
+eg
+   public final void finalMethod() {
+    // Method implementation
+}
+
+3
+Classes: A final class cannot be subclassed, ensuring that its implementation remains unchanged.
+
+eg  
+public final class FinalClass {}{
+    class implementation
+}
+
+
+
+
+

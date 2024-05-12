@@ -1,0 +1,33 @@
+
+1.Core Principles:
+                   Abstraction hides complex
+implementation details, focusing only on
+essential features.
+
+2.Focus on Functionality: 
+                        Emphasizes what an
+object does, not how it does it, through clear
+interfaces.
+
+1.Simplifies Complexity: It reduces complexity by
+showing only relevant information in class design.
+
+2.Real-World Modelling: Abstraction allows creating
+objects that represent real-life entities with key
+attributes and behaviours.
+
+
+## Abstract keyword
+
+
+1.Abstract Class: Used to declare non-instantiable abstract
+classes that serve as base classes.
+
+2.Abstract Method: Defines methods without implementations,
+requiring subclasses to provide specific functionality.
+
+3.Mandatory Implementation: Subclasses must implement all
+abstract methods of an abstract class.
+
+4.Design Flexibility: Allows for flexible class design by defining a
+contract for subclasses.

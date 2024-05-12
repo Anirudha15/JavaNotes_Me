@@ -1,0 +1,7 @@
+
+
+1. Autoboxing: Automatic conversion of primitive types to their 
+corresponding wrapper class objects.
+
+2. Unboxing: Automatic conversion of wrapper class objects back to 
+their respective primitive types.

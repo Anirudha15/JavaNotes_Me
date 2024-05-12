@@ -1,0 +1,10 @@
+
+
+
+1 A method for array iteration often preferred for readability
+2 Parameters one for items optional second index
+3 Using return is similar to continue in traditional loop
+4 Not straightforward to break out of a forEach loop
+5 when you need to perform an action on each array element and dont nees to break early
+
+

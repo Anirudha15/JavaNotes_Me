@@ -1,0 +1,12 @@
+
+
+
+
+1. In Java, an exception is a disruptive event that occurs during the execution of 
+a program, interrupting its normal flow. It's an instance of a problem that 
+arises while the program is running, such as arithmetic errors, null pointer 
+accesses, or resource overflows.
+
+2. Exceptions are objects in Java that encapsulate information about an error 
+event, including its type and the state of the program when the error 
+occurred.

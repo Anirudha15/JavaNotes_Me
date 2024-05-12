@@ -1,0 +1,20 @@
+
+
+1.Polymorphism is the ability of objects of different classes to 
+respond to the same message (method call) in different ways.
+
+2. Flexibility: Allows for writing more flexible and reusable code.
+
+3. Simplicity: Enables developers to write more simple and readable 
+code by using the same interface for different underlying data 
+types.
+
+
+Two types of Polymorphism
+
+1.Compile-Time Polymorphism: Achieved through method 
+overloading or operator overloading.
+
+2.Run-Time Polymorphism: Achieved through method overriding, 
+where a subclass provides a specific implementation of a method 
+already defined in its superclass.

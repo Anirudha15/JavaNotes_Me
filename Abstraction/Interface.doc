@@ -1,0 +1,10 @@
+
+
+1.Interfaces primarily declare abstract methods for implementation by classes.
+
+2.A class can implement multiple interfaces, allowing for more flexible designs.
+
+3.Interfaces can have default methods with implementation and static methods.
+
+4.Interface methods are inherently public and abstract, except for default and
+static methods.

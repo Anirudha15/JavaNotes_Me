@@ -1,0 +1,11 @@
+
+
+1. Try Block: Contains code that is susceptible to exceptions.
+
+2. Catch Block: Follows the try block and handles the exceptions 
+thrown by the try block.
+
+3. When an exception occurs in the try block, the control is transferred 
+to the catch block, where the exception is handled.
+
+

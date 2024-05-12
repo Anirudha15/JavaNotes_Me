@@ -1,0 +1,34 @@
+
+
+
+Throws Keyword:
+1. Declares that a method may throw one or more exceptions.
+2. Used in the method signature to indicate that the method might throw 
+exceptions of specified types.
+3. A method declared with throws requires the calling method to handle or 
+further declare the exception.
+
+
+eg
+public void printName(String name)
+    throws IllegalArgumentException{
+        if(name.Contains("-")){
+            throw new IllegalArgumentException("Name contain -");
+        }
+        System.out.println(name);
+    }
+
+
+Throw Keyword:
+1.Used to explicitly throw an exception from any method or block of code.
+2.You can throw either a new instance of an exception or an existing 
+exception object using throw.
+3.Example: throw new ArithmeticException("Division by zero").
+
+
+eg 
+
+
+
+
+Difference between throws and throw Exceptions.

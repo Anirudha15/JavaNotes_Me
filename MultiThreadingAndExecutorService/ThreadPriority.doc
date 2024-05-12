@@ -1,0 +1,12 @@
+
+
+
+1. Priority Levels: Java threads have priority levels from 1 
+(lowest) to 10 (highest), with a default value of 5.
+
+2. Influence on Execution: A thread's priority suggests the 
+importance of a thread to the scheduler, though it 
+doesn't guarantee the order of execution.
+
+3. Set and Get Priority: Use setPriority(int) to change a 
+thread's priority and getPriority() to retrieve it.

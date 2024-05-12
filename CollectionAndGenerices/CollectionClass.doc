@@ -1,0 +1,14 @@
+1. Offers methods like sort to sort lists.
+
+2. Provides methods like binarySearch for searching sorted lists.
+
+3. Allows reversing the order of elements in a list with reverse.
+
+4. Can shuffle the elements of a list randomly using shuffle.
+
+5. Creates unmodifiable collections using methods like unmodifiableList, etc.
+
+6. Methods like singletonList, create immutable collections with a single element.
+
+7. The copy method is used to copy all elements from one list to another.
+

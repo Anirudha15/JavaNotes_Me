@@ -1,0 +1,16 @@
+
+
+1. Variable becomes a constant, meaning its value cannot be changed once 
+initialized.
+
+2. Method: A final method cannot be overridden by subclasses.
+3. Class: A final class cannot be subclassed, securing the class from being extended.
+
+4. Efficiency: Using final can lead to performance optimization, as the compiler can 
+make certain assumptions about final elements.
+
+5. Null Safety: A final variable must be initialized before the constructor completes, 
+reducing null pointer errors.
+
+6. Immutable Objects: Helps in creating immutable objects in combination with 
+private fields and no setter methods.

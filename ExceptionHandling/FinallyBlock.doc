@@ -1,0 +1,9 @@
+
+
+
+1. Executes code after the try-catch blocks, used mainly for cleanup operations.
+
+2. Always runs regardless of whether an exception is thrown or caught in the trycatch blocks.
+
+3. Ideal for closing resources like files or database connections to prevent 
+resource leaks.
